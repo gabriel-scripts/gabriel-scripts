@@ -63,15 +63,14 @@
 
 <div style=" display: flex; align-items: center;">
   <div style= "align-items: left;">
-  <p>
-    Passionate about coding, tech, and constantly learning. The curiosity is the limite. <br>
-    Here's a little bit about the tools and technologies I work with:
-  </p>
+    <p>
+      Passionate about coding, tech, and constantly learning. The curiosity is the limite. <br>
+      Here's a little bit about the tools and technologies i'm working with:
+    </p>
   </div>
 </div>
 
-<h3 align="left">Languages and Tools:
-</h3>
+<h3 align="left">Languages and Tools:</h3>
 
  <div align="center" style="display: flex; flex-direction: column; align-items: center;"> 
    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielentediado&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielentediado" /></p> 
