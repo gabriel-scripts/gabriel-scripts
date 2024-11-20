@@ -1,6 +1,6 @@
 <h1 align="center">What's up 👋, I'm  <a href="https://gcpasssos.netlify.app/ "> Gabriel </a> </h1>
 <h2 align="center">♡
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="linux" width="45" height="50"/>
 </a>♡
 </h2>
 <p align="center">
