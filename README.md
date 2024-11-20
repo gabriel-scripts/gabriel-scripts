@@ -84,4 +84,4 @@
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me: **gabrielcardosopassos@gmail.com**
-- Profile: <a href="https://www.linkedin.com/in/gabriel-cardoso-575419302/"> Linkdn</a>
+- Profile: <a href="https://www.linkedin.com/in/gabriel-cardoso-575419302/"> linkedin</a>
