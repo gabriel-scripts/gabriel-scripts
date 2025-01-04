@@ -64,7 +64,7 @@
 <div style=" display: flex; align-items: center;">
   <div style= "align-items: left;">
     <p>
-      Passionate about coding, tech, and constantly learning. The curiosity is the limite. <br>
+      Passionate about coding, tech, and constantly learning. The curiosity is the limit. <br>
       Here's a little bit about the tools and technologies i'm working with:
     </p>
   </div>
