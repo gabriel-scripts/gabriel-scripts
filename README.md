@@ -73,11 +73,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center" style="display: flex; flex-direction: column; align-items: center;"> 
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielentediado&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielentediado" /></p> 
+   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-scripts&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielentediado" /></p> 
  </div>
 
 ### My status: 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabrielentediado&show_icons=true&theme=dark&locale=en" alt="gabrielentediado"/></p> 
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabriel-scripts&show_icons=true&theme=dark&locale=en" alt="gabrielentediado"/></p> 
 
 
 <h3 align="left">Connect with me:</h3>
